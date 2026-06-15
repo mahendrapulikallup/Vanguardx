@@ -107,9 +107,9 @@ function App() {
       </div>
 
       {/* Hero Content */}
-      <div className="relative z-10 flex flex-col justify-start h-[calc(100vh-80px)] px-6 sm:px-10 lg:px-16 pt-32">
+      <div className="relative z-10 flex flex-col justify-center h-[calc(100vh-80px)] px-6 sm:px-10 lg:px-16">
         {/* Tagline */}
-        <div className="animate-fade-up mb-6 lg:mb-8 flex items-center gap-2">
+        <div className="animate-fade-up mb-6 lg:mb-8 flex items-center gap-2 mt-20">
           <Crown className="w-4 h-4 text-white/70" />
           <span className="text-white/70 text-xs sm:text-sm font-inter tracking-[0.3em] uppercase">
             World-Class Digital Collective
